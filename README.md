@@ -1,1 +1,86 @@
 # cv
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Veit Bammel</title>
+</head>
+<body>
+<table cellspacing="20">
+    <tr>
+        <td>
+            <img alt="Veit Bammel profile picture" height="250" src="personal_picture_square.jpg" width="250">
+        </td>
+        <td>
+            <h1>Veit Bammel</h1>
+            <p><em>Bewerbung als <strong>Werkstudent Data Analytics</strong></em></p>
+            <p>Bei (Unternehmen) möchte ich meine Karriere in Richtung Data Analytics entfalten. Mein Ziel ist es erste
+                Einblicke und Erfahrungen zu sammeln.
+                Hierfür möchte ich meine erlernten Kenntnisse, welche ich im Rahmen einer Zusatzqualifikation erlernt
+                habe, anwenden.</p>
+        </td>
+    </tr>
+</table>
+<hr>
+<h3>Education</h3>
+<ul>
+    <li><a href="https://www.uni-hohenheim.de/digital-business-management-bachelor-studium">Digital Business Management
+        B.Sc</a> - Universität Hohenheim
+    </li>
+    <li>Wirtschaftswissenschaften B.Sc. - Universität Hohenheim</li>
+    <li>Wirtschaftsgymnasium - Hermann Gundert Schule</li>
+</ul>
+<hr>
+<h3>Berufserfahrung</h3>
+<table cellspacing="10">
+    <thead>
+    <tr>
+        <th>Dates</th>
+        <th>Work</th>
+    </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+    <tr>
+        <td>01/2021 - 10/2022</td>
+        <td>Metabowerke GmbH Werkstudent</td>
+    </tr>
+    <tr>
+        <td>08/2019</td>
+        <td>Metabowerke GmbH Praktikum</td>
+    </tr>
+</table>
+
+<hr>
+
+<h3>Skills</h3>
+
+<table cellspacing="10">
+    <tr>
+
+        <td>
+                <tr>
+                    <td>Python</td>
+                    <td>★★★</td>
+                </tr>
+                <tr>
+                    <td>MS Office Programme</td>
+                    <td>★★★★</td>
+                </tr>
+                <tr>
+                    <td>MS Power Automate</td>
+                    <td>★★</td>
+                </tr>
+
+
+
+</table>
+<hr>
+<a href="contact_details.html">Contact Me</a>
+</body>
+
+</html>
